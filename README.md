@@ -7,6 +7,11 @@ Django Bootcamp
 https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL
 
 
+Useful links:
+
+https://www.djangoproject.com/
+https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+
 django = ">=3.2,<3.3"
 
 Useful commands:
