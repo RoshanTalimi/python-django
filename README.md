@@ -7,7 +7,7 @@ Django Bootcamp
 https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL
 
 
-
+django = ">=3.2,<3.3"
 
 Useful commands:
 python -m django
