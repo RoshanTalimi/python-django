@@ -19,8 +19,7 @@ https://www.youtube.com/watch?v=NQP89ish9t8
 
 
 Useful commands:
-django = ">=3.2,<3.3"
-python -m django
+pip install "Django>=3.2,<3.3"
 django-admin
 
 python -m django startproject trydjango .
@@ -28,9 +27,10 @@ python -m django startproject trydjango .
 python manage.py
 
 django-admin startproject eventful .
-python manage.py runserver
+
 
 
 ```
 source try-django/bin/activate
+python manage.py runserver
 ´´´
