@@ -7,16 +7,19 @@ https://github.com/codingforentrepreneurs/Try-Django-3.2
 Django Bootcamp
 https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzfqAL
 
+Python Django Tutorial for Beginners
+https://www.youtube.com/watch?v=rHux0gMZ3Eg
+
 
 Useful links:
-
 https://www.djangoproject.com/
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 https://www.youtube.com/watch?v=NQP89ish9t8
 
-django = ">=3.2,<3.3"
+
 
 Useful commands:
+django = ">=3.2,<3.3"
 python -m django
 django-admin
 
@@ -26,3 +29,8 @@ python manage.py
 
 django-admin startproject eventful .
 python manage.py runserver
+
+
+```
+source try-django/bin/activate
+´´´
