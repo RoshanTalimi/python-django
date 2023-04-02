@@ -1,7 +1,7 @@
 # python-django
 
 Try Django 3.2
-https://www.youtube.com/watch?v=SlHBNXW1rTk&list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL
+https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL
 https://github.com/codingforentrepreneurs/Try-Django-3.2
 
 Django Bootcamp
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzf
 Python Django Tutorial for Beginners
 https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
-Deploy a fastapi microservice for the try django project 
+Deploy a fastapi microservice for the try django project
 https://www.youtube.com/watch?v=JxH7cdDCFwE
 
 Useful links:
