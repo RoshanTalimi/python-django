@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=RUMohoZzNLc&list=PLEsfXFp6DpzT-1RVQVsL7C2XGMeQzf
 Python Django Tutorial for Beginners
 https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
+Deploy a fastapi microservice for the try django project 
+https://www.youtube.com/watch?v=JxH7cdDCFwE
 
 Useful links:
 https://www.djangoproject.com/
